@@ -60,8 +60,10 @@ I'm working on Ubuntu 14.04 in docker container with debian jessie:
 
 **007 Hello React**
 
+**008 Atom Editor Plugins Optional**
 
-
+    atom-beautify
+    react
 
 
 
