@@ -21,12 +21,11 @@ I'm working on Ubuntu 14.04 in docker container with debian jessie:
 
 <br/>
 
-<a href="http://sysadm.info/linux/containers/docker/installation/ubuntu/">How to install docker on Ubuntu 12 / 14 / 16</a>
-(If link will not work give me to know about it)
+<ul>
+    <li><a href="http://sysadm.info/linux/containers/docker/installation/ubuntu/">How to install docker on Ubuntu 12 / 14 / 16</a></li>
+    <li><a href="http://jsdev.org/env/docker/run-container/">How to run docker container to start development</a></li>
+</ul>
 
-<br/>
-
-<a href="http://jsdev.org/env/docker/run-container/">How to run docker container to start development</a>
 
 <br/>
 
@@ -45,7 +44,7 @@ I'm working on Ubuntu 14.04 in docker container with debian jessie:
 
 ### 03 Hello React
 
-006 Creating Your Web Server
+**006 Creating Your Web Server**
 
     # mkdir 03_Hello_React
     # cd 03_Hello_React/
@@ -57,6 +56,13 @@ I'm working on Ubuntu 14.04 in docker container with debian jessie:
     # nodemon server.js
 
     http://localhost:3000/
+
+
+**007 Hello React**
+
+
+
+
 
 
 <br/><br/>
