@@ -67,6 +67,9 @@ I'm working on Ubuntu 14.04 in docker container with debian jessie:
 
 **009 Your First React Component**
 
+**010 Learning JSX**
+
+**011 Component Properties**
 
 <br/><br/>
 
