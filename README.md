@@ -115,7 +115,9 @@ http://localhost:3000/
 
     # webpack
 
-    
+**021 Adding Babel JSX Support**
+
+    # webpack
 
 <br/><br/>
 
