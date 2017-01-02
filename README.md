@@ -38,7 +38,7 @@ I'm working on Ubuntu 14.04 in docker container with debian jessie:
     # npm -v
     3.10.10
 
-<br/>
+<hr/>
 
 <br/>
 
@@ -88,6 +88,23 @@ I'm working on Ubuntu 14.04 in docker container with debian jessie:
 **017 Section Challenge**
 
 ![013 Component State](img/03_Hello_React/017_Section_Challenge.png)
+
+<br/>
+
+### 04 A Better React Project
+
+**018 What is Webpack And Installing It**
+
+    # npm install -g webpack@1.12.13
+    # npm install --save react@0.14.7
+    # npm install --save react-dom@0.14.7
+
+    # npm install --save-dev webpack@1.12.13
+    # npm install --save-dev babel-core@6.5.1
+    # npm install --save-dev babel-loader@6.2.2
+    # npm install --save-dev babel-preset-es2015@6.5.0
+    # npm install --save-dev babel-preset-react@6.5.0
+
 
 
 <br/><br/>
