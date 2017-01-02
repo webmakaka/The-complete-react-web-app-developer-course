@@ -83,8 +83,11 @@ I'm working on Ubuntu 14.04 in docker container with debian jessie:
 
 **015 Nested Components Part 2**
 
+**016 Aside Props State**
 
+**017 Section Challenge**
 
+![013 Component State](img/03_Hello_React/017_Section_Challenge.png)
 
 
 <br/><br/>
