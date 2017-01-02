@@ -55,7 +55,7 @@ I'm working on Ubuntu 14.04 in docker container with debian jessie:
 
     # nodemon server.js
 
-    http://localhost:3000/
+http://localhost:3000/
 
 
 **007 Hello React**
@@ -127,6 +127,13 @@ http://localhost:3000/
 
     # webpack
 
+**024 Boilerplate Project**
+
+    # cd ../ReactBoilerplate/
+    # webpack 
+    # nodemon server.js
+
+http://localhost:3000/
 
 <br/><br/>
 
