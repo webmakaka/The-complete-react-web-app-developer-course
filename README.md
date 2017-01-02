@@ -105,6 +105,13 @@ I'm working on Ubuntu 14.04 in docker container with debian jessie:
     # npm install --save-dev babel-preset-es2015@6.5.0
     # npm install --save-dev babel-preset-react@6.5.0
 
+**019 Generating Our Bundle**
+
+    # webpack ./public/app.js ./public/bundle.js
+
+http://localhost:3000/
+
+
 
 
 <br/><br/>
