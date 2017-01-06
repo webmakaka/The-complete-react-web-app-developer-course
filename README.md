@@ -185,8 +185,21 @@ not interest
 
 **10 Adding Loading Text**
 
+**11 Debugging The React Developer Tools**
 
+chrome.google.com/webstore
 
+- React Developer Tools
+
+Browser Console: $r
+
+**12 Advanced Debugging**
+
+devtool: 'cheap-module-eval-source-map'
+
+**13 ES6 Aside Arrow Functions**
+
+**14 Refactoring Stateless Functional Components**
 
 <br/><br/>
 
