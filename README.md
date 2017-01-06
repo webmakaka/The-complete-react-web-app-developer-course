@@ -201,7 +201,41 @@ devtool: 'cheap-module-eval-source-map'
 
 **14 Refactoring Stateless Functional Components**
 
+<br/>
+
+### 06 Deploying Your App To Production
+
+(Not Interesting for me)
+
+<br/>
+
+### 07 Styling Your App With Foundation
+
+**01 Intro Foundation**
+
+**02 Installing Foundation**
+
+    # cd 07_Styling_Your_App_With_Foundation/
+    # npm install
+    # npm install --save css-loader@0.23.1
+    # npm install --save script-loader@0.6.1
+    # npm install --save style-loader@0.13.0
+    # npm install --save jquery@2.2.1
+    # npm install --save foundation-sites@6.2.0
+
+<br/>
+
+    # webpack
+    # nodemon server.js
+
+<br/>
+
+
+![02 Installing Foundation](img/07_Styling_Your_App_With_Foundation/02 Installing Foundation.png)
+
 <br/><br/>
+
+
 
 ___
 
