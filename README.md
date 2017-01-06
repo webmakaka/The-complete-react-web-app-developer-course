@@ -158,6 +158,10 @@ not interest
 ![02 Adding React-Router](img/05_Routing_Our_Weather_App/02_Adding_React_Router.png)
 
 
+**03 Creating Our Pages**
+
+![03 Creating Our Pages](img/05_Routing_Our_Weather_App/03_Creating_Our_Pages.png)
+
 
 
 <br/><br/>
