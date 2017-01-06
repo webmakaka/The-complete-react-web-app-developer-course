@@ -177,6 +177,12 @@ not interest
 
 **08 Faking Our Call**
 
+**09 Making Our API Call**
+
+    # npm install --save axios
+
+![09 Making Our API Call](img/05_Routing_Our_Weather_App/09_Making_Our_API_Call.png)
+
 
 
 
