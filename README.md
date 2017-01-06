@@ -171,6 +171,12 @@ not interest
 
 ![05 Creating WeatherForm WeatherMessage](img/05_Routing_Our_Weather_App/05_Creating_WeatherForm_WeatherMessage.png)
 
+**06 Exploring OpenWeatherMap.org**
+
+**07 ES6 Promises**
+
+**08 Faking Our Call**
+
 
 
 
