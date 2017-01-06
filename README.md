@@ -162,6 +162,9 @@ not interest
 
 ![03 Creating Our Pages](img/05_Routing_Our_Weather_App/03_Creating_Our_Pages.png)
 
+**04 Why use Link**
+
+![04 Why use Link](img/05_Routing_Our_Weather_App/04_Why_use_Link.png)
 
 
 <br/><br/>
