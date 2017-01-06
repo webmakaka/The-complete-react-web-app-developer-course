@@ -183,6 +183,8 @@ not interest
 
 ![09 Making Our API Call](img/05_Routing_Our_Weather_App/09_Making_Our_API_Call.png)
 
+**10 Adding Loading Text**
+
 
 
 
