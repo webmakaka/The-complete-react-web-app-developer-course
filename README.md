@@ -233,6 +233,17 @@ devtool: 'cheap-module-eval-source-map'
 
 ![02 Installing Foundation](img/07_Styling_Your_App_With_Foundation/02 Installing Foundation.png)
 
+
+**03 Styling Navigation**
+
+
+
+![03 Styling Navigation](img/07_Styling_Your_App_With_Foundation/03_Styling_Navigation.png)
+
+
+
+
+
 <br/><br/>
 
 
