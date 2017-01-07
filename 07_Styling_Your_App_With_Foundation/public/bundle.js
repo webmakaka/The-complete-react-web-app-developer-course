@@ -26724,23 +26724,53 @@
 /* 254 */
 /***/ function(module, exports, __webpack_require__) {
 
-	'use strict';
+	"use strict";
 
 	var React = __webpack_require__(8);
 
-	// var About = React.createClass({
-	//     render: function(){
-	//         return (
-	//             <h3>About Component</h3>
-	//         );
-	//     }
-	// });
-
 	var About = function About(props) {
 	    return React.createElement(
-	        'h3',
+	        "div",
 	        null,
-	        'About Component'
+	        React.createElement(
+	            "h1",
+	            { className: "text-center" },
+	            "About"
+	        ),
+	        React.createElement(
+	            "p",
+	            null,
+	            "This is a weather application build on React. Ihave built this for The Complete React Web App Developer Course."
+	        ),
+	        React.createElement(
+	            "p",
+	            null,
+	            "Here are some of the tools I used:"
+	        ),
+	        React.createElement(
+	            "ul",
+	            null,
+	            React.createElement(
+	                "li",
+	                null,
+	                React.createElement(
+	                    "a",
+	                    { href: "#" },
+	                    "React"
+	                ),
+	                " - Thes was the JavaScript freamework used."
+	            ),
+	            React.createElement(
+	                "li",
+	                null,
+	                React.createElement(
+	                    "a",
+	                    { href: "#" },
+	                    "Open Weather Map"
+	                ),
+	                " - I used Open Weather Map to search for weather data by city name."
+	            )
+	        )
 	    );
 	};
 

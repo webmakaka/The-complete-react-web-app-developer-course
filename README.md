@@ -244,7 +244,7 @@ devtool: 'cheap-module-eval-source-map'
 
 ![04 Styling Examples Page](img/07_Styling_Your_App_With_Foundation/04_Styling_Examples_Page.png)
 
-
+**05 Styling About Page**
 
 
 <br/><br/>
