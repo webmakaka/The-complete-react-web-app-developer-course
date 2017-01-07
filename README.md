@@ -237,16 +237,17 @@ devtool: 'cheap-module-eval-source-map'
 **03 Styling Navigation**
 
 
-
 ![03 Styling Navigation](img/07_Styling_Your_App_With_Foundation/03_Styling_Navigation.png)
 
+
+**04 Styling Examples Page**
+
+![04 Styling Examples Page](img/07_Styling_Your_App_With_Foundation/04_Styling_Examples_Page.png)
 
 
 
 
 <br/><br/>
-
-
 
 ___
 
