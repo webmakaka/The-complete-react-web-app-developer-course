@@ -246,6 +246,12 @@ devtool: 'cheap-module-eval-source-map'
 
 **05 Styling About Page**
 
+**06 Styling Weather Page**
+
+![06 Styling Weather Page](img/07_Styling_Your_App_With_Foundation/06_Styling_Weather_Page.png)
+
+
+
 
 <br/><br/>
 
