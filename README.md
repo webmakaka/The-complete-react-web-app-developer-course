@@ -251,6 +251,12 @@ devtool: 'cheap-module-eval-source-map'
 ![06 Styling Weather Page](img/07_Styling_Your_App_With_Foundation/06_Styling_Weather_Page.png)
 
 
+**07 Adding A Modal For Errors Part 1**
+
+![07 Adding A Modal For Errors Part 1](img/07_Styling_Your_App_With_Foundation/07_Adding_A_Modal_For_Errors_Part_1.png)
+
+
+
 
 
 <br/><br/>
