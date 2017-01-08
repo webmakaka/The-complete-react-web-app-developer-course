@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.15.3",
+    "axios": "^0.9.1",
     "css-loader": "^0.23.1",
     "express": "^4.14.0",
     "foundation-sites": "^6.2.0",

@@ -9,8 +9,7 @@ var Weather = React.createClass({
 
     getInitialState: function(){
         return {
-            isLoading: false,
-            errorMessage: undefined
+            isLoading: false
         }
     },
 
@@ -18,7 +17,10 @@ var Weather = React.createClass({
 
         var that = this;
 
-        this.setState({isLoading: true});
+        this.setState({
+            isLoading: true,
+            errorMessage: undefined
+        });
 
         openWeatherMap.getTemp(location).then(function(temp){
 
@@ -29,11 +31,11 @@ var Weather = React.createClass({
             })
 
         }, function(e){
+
             that.setState({
                 isLoading: false,
                 errorMessage: e.message
             });
-            alert(errorMessage);
         });
     },
 
@@ -52,7 +54,7 @@ var Weather = React.createClass({
         function renderError (){
             if (typeof errorMessage === 'string'){
                 return (
-                    <ErrorModal/>
+                    <ErrorModal message={errorMessage} />
                 )
             }
         }
