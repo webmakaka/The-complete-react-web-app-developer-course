@@ -263,7 +263,10 @@ devtool: 'cheap-module-eval-source-map'
 
 **09 Adding Custom CSS**
 
+**10 Setting Up SCSS**
 
+    # npm install --save-dev sass-loader@3.2.3
+    # npm install --save-dev node-sass@3.13.1
 
 <br/><br/>
 
