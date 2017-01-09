@@ -272,7 +272,9 @@ devtool: 'cheap-module-eval-source-map'
 
 **12 Fixing The Error Modal**
 
+**13 Updating Our Boilerplate**
 
+We made new Boilerplate - "00_ReactBoilerplate_2"
 
 
 <br/><br/>
