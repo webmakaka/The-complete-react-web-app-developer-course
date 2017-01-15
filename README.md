@@ -23,7 +23,7 @@ I'm working on Ubuntu 14.04 in docker container with debian jessie:
 
 <ul>
     <li><a href="http://sysadm.info/linux/containers/docker/installation/ubuntu/">How to install docker on Ubuntu 12 / 14 / 16</a></li>
-    <li><a href="http://jsdev.org/env/docker/run-container/">How to run docker container to start development</a></li>
+    <li><a href="http://jsdev.org/env/docker/run-container/linux/">How to run docker container to start development</a></li>
 </ul>
 
 
@@ -275,6 +275,26 @@ devtool: 'cheap-module-eval-source-map'
 **13 Updating Our Boilerplate**
 
 We made new Boilerplate - "00_ReactBoilerplate_2"
+
+<br/>
+
+### 08 Testing Component Lifecycle
+
+**01 Project Overview**
+
+**02 Component Breakdown**
+
+**03 Adding The Navigation Bar**
+
+    # cp -R 00_ReactBoilerplate_2 08_Testing_Component_Lifecycle
+    # cd 08_Testing_Component_Lifecycle
+    # npm install
+    # webpack -w
+    # nodemon server.js
+
+<br/>
+
+![03 Adding The Navigation Bar](img/08_Testing_Component_Lifecycle/03_Adding_The_Navigation_Bar.png)
 
 
 <br/><br/>
