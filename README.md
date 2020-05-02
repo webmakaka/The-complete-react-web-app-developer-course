@@ -301,9 +301,13 @@ We made new Boilerplate - "00_ReactBoilerplate_2"
 
 ___
 
+
+<br/>
+
+
 **Marley**
 
-<a href="https://labs.jsdev.org">labs.jsdev.org</a>
+<a href="https://jsdev.org">jsdev.org</a>
 
-email:  
-![Marley](http://img.fotografii.org/a3333333mail.gif "Marley")
+Any questions on eng: https://jsdev.org/chat/  
+Любые вопросы на русском: https://jsdev.ru/chat/
